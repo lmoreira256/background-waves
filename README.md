@@ -7,7 +7,7 @@
 | :rocket: URL         | http://background-wave.s3-website-sa-east-1.amazonaws.com
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](./github_assets/demo.gif#vitrinedev)
 
 ## Detalhes do projeto
 
